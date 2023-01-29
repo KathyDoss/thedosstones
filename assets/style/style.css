@@ -1,0 +1,27 @@
+.band-title-header {
+  font-size: 50px;
+  font-family: 'Monoton', cursive;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.container p {
+  font-family: 'Hind', sans-serif;
+  font-size: 25px;
+}
+
+img {
+  width: 50vh;
+}
+
+.image-container {
+  width: 100%;
+}
+
+#band-image {
+  width:100vh;
+}
