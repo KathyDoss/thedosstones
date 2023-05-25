@@ -27,3 +27,6 @@ img {
 #band-image {
   width:100vh;
 }
+figcaption {
+  text-align center;
+  }
