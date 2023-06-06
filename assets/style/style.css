@@ -15,10 +15,11 @@
 
 .text-container {
   font-family: 'Ariel';
-  font-size: 18px;
+  font-size: 20px;
   justify-content:center;
   flex-basis: 47%; 
   flex-grow:2;
+  flex-shrink:2;
   align-content:center;
   padding:10px;
   }
@@ -36,12 +37,13 @@ font-family: 'Ariel';
 
 .third-container {
 font-family: 'Ariel';
-  font-size: 18px;
+  font-size: 20px;
   justify-content:center;
   flex-basis: 33%; 
   flex-grow:2;
+  flex-shrink:2;
   align-content:center;
-  padding:5px;
+  padding:10px;
 }
 
 .video-link {
@@ -70,23 +72,19 @@ padding-bottom:5px;
 
 
 #small-player {
-width:200px;
+width:180px;
 }
 
 #player-photo {
 height:300px;
 width:auto;
-padding:10px;
-}
-
-.center {
-/*  display: block;*/
-  margin-left: auto;
+margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  padding:10px;
 }
-  
 
+
+ 
 
 
 
