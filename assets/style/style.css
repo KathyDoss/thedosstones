@@ -41,7 +41,7 @@ font-family: 'Ariel';
   flex-basis: 33%; 
   flex-grow:2;
   align-content:center;
-  padding:10px;
+  padding:5px;
 }
 
 .video-link {
@@ -49,16 +49,13 @@ width:49%;
 justify-content:center;
 }
 
-.player-photo {
- 
-}
 
-/*figcaption {
+
+figcaption {
 font-size:12;
 font-style:italic;
 padding-bottom:5px;
-text-align:center;
-}*/
+}
 
 #band-image {
   width:100vh;
